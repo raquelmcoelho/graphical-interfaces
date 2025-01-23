@@ -1,0 +1,7 @@
+README.md
+main.pro
+include/MainWidget.h
+src/MainWidget.cpp
+include/ColorWidget.h
+src/ColorWidget.cpp
+src/main.cpp
