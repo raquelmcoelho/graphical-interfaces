@@ -1,0 +1,7 @@
+./CalculatorModel.h
+./CalculatorModel.cpp
+./mainwindow.h
+./mainwindow.cpp
+./main.cpp
+./Calculator.pro
+
